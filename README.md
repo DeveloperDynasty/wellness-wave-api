@@ -1,8 +1,3 @@
-### Repository Description:
-"API repository for the WellnessWave application, handling data transactions and business logic."
-
-### README File:
-
 # WellnessWave API
 
 This repository houses the backend code for the WellnessWave application. It is responsible for managing data transactions, business logic, and interfacing with the database to ensure smooth operations and data integrity.
